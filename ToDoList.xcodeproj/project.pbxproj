@@ -16,6 +16,7 @@
 		4C68280B2203F8BA003ACC78 /* ToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C68280A2203F8BA003ACC78 /* ToDoTableViewController.swift */; };
 		4C68280D2203F8E0003ACC78 /* ToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C68280C2203F8E0003ACC78 /* ToDoViewController.swift */; };
 		4C8CEEAC2205EA8800690F4B /* ToDoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8CEEAB2205EA8800690F4B /* ToDoCell.swift */; };
+		4CFC082A221F7876006795D9 /* Screenshoots in Resources */ = {isa = PBXBuildFile; fileRef = 4CFC0829221F7876006795D9 /* Screenshoots */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		4C68280A2203F8BA003ACC78 /* ToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
 		4C68280C2203F8E0003ACC78 /* ToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoViewController.swift; sourceTree = "<group>"; };
 		4C8CEEAB2205EA8800690F4B /* ToDoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoCell.swift; sourceTree = "<group>"; };
+		4CFC0829221F7876006795D9 /* Screenshoots */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Screenshoots; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 			children = (
 				4C6827F02203AD4F003ACC78 /* ToDoList */,
 				4C6827EF2203AD4F003ACC78 /* Products */,
+				4CFC0829221F7876006795D9 /* Screenshoots */,
 			);
 			sourceTree = "<group>";
 		};
@@ -158,6 +161,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CFC082A221F7876006795D9 /* Screenshoots in Resources */,
 				4C6827FC2203AD50003ACC78 /* LaunchScreen.storyboard in Resources */,
 				4C6827F92203AD50003ACC78 /* Assets.xcassets in Resources */,
 				4C6827F72203AD4F003ACC78 /* Main.storyboard in Resources */,
